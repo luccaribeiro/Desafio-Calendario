@@ -9,3 +9,6 @@
  * Como fazer um programa que liste os próximos 3 meses com dias de trabalho/folga?
  
 
+
+Solução - Você escolhe seu primeiro dia de trabalho e ele mostra visualmente em um calendario sua folga nos proximos 3 meses 
+![image](https://user-images.githubusercontent.com/104439599/186490824-66205b16-3894-4731-9a53-a88ba9011a1e.png)
