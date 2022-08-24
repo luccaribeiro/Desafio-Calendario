@@ -7,5 +7,5 @@
  * trabalhando ou de folga. Difícil fazer planos.
  * Exemplo, como saber no dia 12 de Outubro ele vai estar trabalhando ou de folga?
  * Como fazer um programa que liste os próximos 3 meses com dias de trabalho/folga?
- * 
+ 
 
